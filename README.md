@@ -15,7 +15,10 @@ const aboutMe = {
 ```
 
 ## Social Media 📷
-<p> <a href="https://https://www.instagram.com/aangeel__24/"> <img src="https://skillicons.dev/icons?i=instagram"/></a></p> <p> <a href=""> <img src="https://skillicons.dev/icons?i=linkedin"/></a></p> <p> <a href=""> <img src="https://skillicons.dev/icons?i=gmail"/></a></p>
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aangeel__24/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](#) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](#)
+
 
 
 
