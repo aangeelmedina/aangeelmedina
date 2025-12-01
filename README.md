@@ -18,6 +18,12 @@ const aboutMe = {
   lookingFor: "Opportunities to learn and collaborate.",
 }
 ```
+
+## 🛠️ My Favorite Tools
+👨‍💻 Programming Languages & Frameworks
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,symfony,react,python,mysql,docker,vscode"/> </a> </p>
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=aangeelmedina&show_icons=true&theme=dark&hide_border=true)
