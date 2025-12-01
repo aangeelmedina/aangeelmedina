@@ -4,12 +4,7 @@
 const aboutMe = {
   currentStatus: "DAW Student @ IES Hermenegildo Lanz",
   role: "Full-Stack Developer Training 💻",
-  code: ["Java", "JavaScript", "PHP", "Symfony"],
-  technologies: {
-    backend: ["Java", "PHP", "Symfony"],
-    frontend: ["JavaScript", "HTML", "CSS"],
-    misc: ["Databases", "APIs"]
-  },
+  
   passions: [
     "Building robust web solutions 🌐", 
     "Learning new technologies 🚀", 
